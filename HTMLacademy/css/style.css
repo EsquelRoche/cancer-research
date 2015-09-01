@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+}
+h3 {
+	margin: 10px;
+}
+
+pre {
+	margin-left: 10px;
+	border: solid dimgray 1px;
+	background-color: #D3D3D3;
+	padding: 10px;
+	width: 100%;
+	border-radius: 5px;
+}
+.context {
+	border: solid dimgray 1px;
+	background-color: #D3D3D3;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	font-size: 13px;
+	width: 20%;
+	padding-left: 10px;
+	line-height: 2px;
+	float: left;
+	border-radius: 5px;
+}
+.code {
+	border: solid dimgray 1px;
+	background-color: #D3D3D3;
+	color: red;
+	font-family: monospace;
+}
+.text {
+
+}
